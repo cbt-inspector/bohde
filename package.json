@@ -1,8 +1,8 @@
 {
-  "name": "bruh",
+  "name": "Boh",
   "version": "1.0.0",
-  "description": "suspicous website",
-  "author": "owen",
+  "description": "The Boh.de website",
+  "author": "Owen & Luca",
   "private": true,
   "scripts": {
     "dev": "nuxt",
