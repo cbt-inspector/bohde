@@ -8,11 +8,13 @@
       Die offizielle Webseite
     </p>
   </div>
-  <marquee direction="down" width="100%" height="350" behavior="alternate">
-    <marquee behavior="alternate">
-      Boh!
+  <div>
+    <marquee direction="down" width="100%" height="350" behavior="alternate">
+      <marquee behavior="alternate">
+        Boh!
+      </marquee>
     </marquee>
-  </marquee>
+  </div>
 </template>
 <script>
 export default {
