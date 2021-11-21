@@ -9,10 +9,13 @@
     </p>
   </div>
   <div>
-    <marquee direction="down" width="1000" height="350" behavior="alternate">
+<!--    <marquee direction="down" width="1000" height="350" behavior="alternate">
       <marquee behavior="alternate">
         Boh!
       </marquee>
+    </marquee> -->
+    <marquee direction="left">
+      Boh!
     </marquee>
   </div>
 </template>
