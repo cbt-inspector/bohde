@@ -5,11 +5,13 @@
     </h1>
     <hr class=whiteline>
     <p>
-      Die offizielle Boh!seite
+      Die offizielle Webseite
     </p>
   </div>
   <div>
-    <video autoplay loop muted id="bodyvideo"><source src="/static/superidol.mp4"></video>
+    <video autoplay loop muted id="bodyvideo">
+      <source src="~/static/superidol.mp4">
+    </video>
   </div>
 </template>
 <script>
