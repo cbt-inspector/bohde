@@ -18,7 +18,7 @@
       Boh!
     </h1>
     <hr class=whiteline>
-    <p>
+    <p class=skewer>
       Die offizielle Webseite
     </p>
   </div>
@@ -55,6 +55,9 @@ body {
   width: 70%;
 }
 
+.skewer {
+  transform: skewY(-3deg);
+}
 
 .ticker-news {
   width: 7000px;
