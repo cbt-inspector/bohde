@@ -4,17 +4,11 @@
     :src="require('~/static/404error.gif')"
     to="/">
   </nuxt-link>
-  <img src:"~/static/404error.gif" href="https://theboh.de/" class=largeimg>
+  <a href="https://theboh.de/"><img src:"~/static/404error.gif"  style="width:400px;height:400px;"></a>
 </template>
 
 <style>
 body {
   background-color: black;
 }
-.largeimg {
-  width: 400%;
-}
 </style>
-
-<script>
-</script>
