@@ -9,8 +9,8 @@
     </p>
   </div>
   <div>
-    <video autoplay loop muted id="bodyvideo">
-      <source src="~/static/superidol.mp4">
+    <video autoplay loop muted>
+      <source src="/static/superidol.mp4">
     </video>
   </div>
 </template>
@@ -35,12 +35,6 @@ p {
   text-align: center;
   padding: 1px;
   color: white;
-}
-.bodyvideo {
-  position: fixed;
-  min-width: 100%;
-  min-height: 100%;
-  z-index: -100;
 }
 body {
   margin: 0;
