@@ -9,7 +9,7 @@
     </p>
   </div>
   <div>
-    <video autoplay loop muted id="bodyvideo">
+    <video autoplay loop muted class=bodyvideo>
       <source src="~/static/superidol.mp4">
     </video>
   </div>
