@@ -3,6 +3,10 @@
     <h1>
       Boh!
     </h1>
+    <hr class=whiteline>
+    <p>
+      Die offizielle Boh!seite
+    </p>
   </div>
   <div>
     <video autoplay loop muted id="bodyvideo"><source src="/static/superidol.mov"></video>
@@ -24,10 +28,6 @@ p {
   font-family: 'Open Sans', sans-serif;
   font-size: 25px;
 }
-li {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 25px;
-}
 .invertedbox {
   background-color: black;
   text-align: center;
@@ -44,5 +44,8 @@ body {
   margin: 0;
   height: 700px;
   overflow-y: hidden;
+}
+.whiteline {
+  background-color: white;
 }
 </style>
