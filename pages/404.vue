@@ -4,7 +4,7 @@
     :src="require('~/static/404error.gif')"
     to="/">
   </nuxt-link> -->
-  <a href="https://theboh.de/"><img src="~/static/404error.gif" width="100%" height="100%"></a>
+  <a href="https://theboh.de/"><img src="~/static/404error.gif" width="100%" height="50%"></a>
 </template>
 
 <style>
