@@ -10,7 +10,7 @@
   </div>
   <div>
     <video autoplay loop muted>
-      <source src="~/static/superidol.mp4">
+      <source src="/static/superidol.mp4">
     </video>
   </div>
 </template>
