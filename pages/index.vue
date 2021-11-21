@@ -8,11 +8,11 @@
       Die offizielle Webseite
     </p>
   </div>
-  <div>
-    <video autoplay loop muted>
-      <source src="/static/superidol.mp4">
-    </video>
-  </div>
+  <marquee direction="down" width="100%" height="350" behavior="alternate">
+    <marquee behavior="alternate">
+      Boh!
+    </marquee>
+  </marquee>
 </template>
 <script>
 export default {
