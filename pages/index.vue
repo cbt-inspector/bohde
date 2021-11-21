@@ -9,7 +9,7 @@
     </p>
   </div>
   <div>
-    <video autoplay loop muted id="bodyvideo"><source src="/static/superidol.mov"></video>
+    <video autoplay loop muted id="bodyvideo"><source src="/static/superidol.mp4"></video>
   </div>
 </template>
 <script>
@@ -47,5 +47,6 @@ body {
 }
 .whiteline {
   background-color: white;
+  width: 70%;
 }
 </style>
