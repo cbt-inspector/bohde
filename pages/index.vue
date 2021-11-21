@@ -9,7 +9,7 @@
     </p>
   </div>
   <div>
-    <marquee direction="down" width="100%" height="350" behavior="alternate">
+    <marquee direction="down" width="1000" height="350" behavior="alternate">
       <marquee behavior="alternate">
         Boh!
       </marquee>
