@@ -3,10 +3,10 @@
   <div class="wrapper">
   <div class="sidescroll">
     <p>
-      Der code funktioniert nicht.....Luca hat die Hausaufgaben vergessen.....Ich(die webseite) begehe suizid.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....https://www.bebis-schleswig-holstein.de/ .....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
+      Der code funktioniert nicht.....<i>"Cornelius Caesar"</i>-Zitat Adrian.....Ich(die webseite) begehe suizid.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....<a href="https://www.bebis-schleswig-holstein.de/">bebis-schleswig-holstein.de</a>.....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
     </p>
     <p>
-      Der code funktioniert nicht.....Luca hat die Hausaufgaben vergessen.....Ich(die webseite) begehe suizid.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....https://www.bebis-schleswig-holstein.de/ .....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
+      Der code funktioniert nicht.....<i>"Cornelius Caesar"</i>-Zitat Adrian.....Ich(die webseite) begehe suizid.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....<a href="https://www.bebis-schleswig-holstein.de/">bebis-schleswig-holstein.de</a>.....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
     </p>
   </div>
 </div>
@@ -20,12 +20,12 @@
     Die offizielle Webseite
   </p>
 </div>
-
 <div class=whitebckg>
+<div>
   <button class="menu">Menu</button>
 </div>
 <div class=textbdy>
-  <h3>Wieso Boh?</h3>
+  <h2>Wieso Boh?</h2>
   <p>
     If you’re anything like me, there’ll be plenty of times in Italy when you just don’t know the answer.
     Why hasn’t a single bus come in 45 minutes? I don’t know. Do you really need that piece of paperwork or can you get by with a wink and a smile? I don’t know. Which region makes the best pasta? Heaven help me, I don’t know.
@@ -34,6 +34,7 @@
     Don’t be fooled by the transcription: it doesn’t rhyme with “oh” or “so” in English. Instead the vowel is shorter: more of a “buh”.
     And according to the dictionary, Italians have been making this funny 🅱 sound since circa 1840 to express “doubt, indifference or reticence”.
   </p>
+</div>
 </div>
 </header>
 </template>
@@ -78,10 +79,16 @@ body {
 .textbdy {
   background: white;
   height: 1500px;
+  width: 80%;
 }
-.textbdy h3 {
+.textbdy h2 {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+}
+.textbdy p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
 }
 
 .skewer {
