@@ -27,6 +27,8 @@
       <a href="/">Homepage</a>
       <a href="/imagine-clicking-a-link-just-to-end-up-at-a-404-cringe">404</a>
       <a href="http://www.ismycomputeron.com/">Suprise</a>
+      <a href="https://www.bibun.ga/">Bing Chilling</a>
+      <a href="https://www.bibun.ga/tacdrip.png">😳 dro🅱pf 😳</a>
     </div>
   </div>
 <div class=textbdy>
@@ -88,7 +90,7 @@ body {
 .textbdy {
   background: white;
   height: 1500px;
-  width: 80%;
+  width: 70%;
   text-align: center;
 }
 .textbdy h2 {
@@ -99,6 +101,7 @@ body {
 .textbdy p {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
+  text-align: center;
 }
 
 .skewer {
