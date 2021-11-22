@@ -55,7 +55,7 @@ p {
 }
 body {
   margin: 0;
-  overflow: hidden;
+  overflow: auto;
   background: white;
 }
 
@@ -67,7 +67,7 @@ body {
 .skewer {
   transform: skewY(-3deg);
 }
-
+/*
 .wrapper {
   max-width: 100%;
   overflow: hidden;
@@ -86,7 +86,7 @@ body {
   display: inline-block;
   font-size: 12px;
 }
-
+*/
 .menu {
   background-color: white;
   border: 1px solid black;
@@ -105,7 +105,7 @@ body {
   color: white;
 }
 
-
+/*
 @keyframes sidescroll {
   0% {
     transform: translate3d(0, 0, 0);
@@ -115,5 +115,5 @@ body {
     transform: translate3d(-50%, 0, 0);
   }
 }
-
+*/
 </style>
