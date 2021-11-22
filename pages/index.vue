@@ -3,10 +3,10 @@
   <div class="wrapper">
   <div class="sidescroll">
     <p>
-      Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
+      Der code funktioniert nicht.....Luca hat die Hausaufgaben vergessen.....Ich(die webseite) begehe suizid.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....https://www.bebis-schleswig-holstein.de/ .....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
     </p>
     <p>
-      Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
+      Der code funktioniert nicht.....Luca hat die Hausaufgaben vergessen.....Ich(die webseite) begehe suizid.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....https://www.bebis-schleswig-holstein.de/ .....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
     </p>
   </div>
 </div>
@@ -21,10 +21,18 @@
   </p>
 </div>
 
-<div class=workdamnit>
+<div class=whitebckg>
   <button class="menu">Menu</button>
+</div>
+<div class=textbdy>
+  <h3>Wieso Boh?</h3>
   <p>
-    wieso wurde dies getan
+    If you’re anything like me, there’ll be plenty of times in Italy when you just don’t know the answer.
+    Why hasn’t a single bus come in 45 minutes? I don’t know. Do you really need that piece of paperwork or can you get by with a wink and a smile? I don’t know. Which region makes the best pasta? Heaven help me, I don’t know.
+    That’s why I’m such a big fan of today’s word: <b>boh</b>.
+    It means ‘I don’t know’, but in its most informal form – like when we shorten the phrase to ‘dunno’.
+    Don’t be fooled by the transcription: it doesn’t rhyme with “oh” or “so” in English. Instead the vowel is shorter: more of a “buh”.
+    And according to the dictionary, Italians have been making this funny 🅱 sound since circa 1840 to express “doubt, indifference or reticence”.
   </p>
 </div>
 </header>
@@ -63,8 +71,17 @@ body {
   width: 70%;
 }
 
-.workdamnit {
+.whitebckg {
   background: white;
+}
+
+.textbdy {
+  background: white;
+  height: 1500px;
+}
+.textbdy h3 {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .skewer {
@@ -101,6 +118,7 @@ body {
   font-size: 16px;
   transition-duration: 0.2s;
   cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .menu:hover {
