@@ -21,20 +21,13 @@
   </p>
 </div>
 
-</header>
-<div>
-  <p>
-    does it work now? maybe? please?
-  </p>
-</div>
-<!--
 <div>
   <button class="menu">Menu</button>
   <p>
     wieso wurde dies getan
   </p>
 </div>
--->
+</header>
 </template>
 
 <style>
@@ -78,7 +71,7 @@ body {
 .skewer {
   transform: skewY(-3deg);
 }
-/*
+
 .wrapper {
   max-width: 100%;
   overflow: hidden;
@@ -126,5 +119,5 @@ body {
     transform: translate3d(-50%, 0, 0);
   }
 }
-*/
+
 </style>
