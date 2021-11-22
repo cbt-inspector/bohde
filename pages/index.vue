@@ -19,7 +19,7 @@
       Die offizielle Webseite
     </p>
   </div>
-  <div>
+  <div class=light>
     <button class=menu>Menu</button>
   </div>
 </template>
@@ -42,6 +42,9 @@ p {
   text-align: center;
   padding: 1px;
   color: white;
+}
+.light {
+background: white;
 }
 
 body {
