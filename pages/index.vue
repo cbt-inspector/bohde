@@ -1,27 +1,28 @@
 <template>
   <div class="wrapper">
-    <div class="marquee">
-      <p>
-        Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
-      </p>
-      <p>
-        Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
-      </p>
-    </div>
-  </div>
-
-  <div class=invertedbox>
-    <h1>
-      Boh!
-    </h1>
-    <hr class=whiteline>
-    <p class=skewer>
-      Die offizielle Webseite
+  <div class="sidescroll">
+    <p>
+      Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
+    </p>
+    <p>
+      Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
     </p>
   </div>
-  <div class=light>
-    <button class=menu>Menu</button>
-  </div>
+</div>
+
+<div class=invertedbox>
+  <h1>
+    Boh!
+  </h1>
+  <hr class=whiteline>
+  <p class=skewer>
+    Die offizielle Webseite
+  </p>
+</div>
+<div class=light>
+  <button class=menu>Menu</button>
+</div>
+
 </template>
 
 <style>
@@ -40,17 +41,18 @@ p {
 .invertedbox {
   background-color: black;
   text-align: center;
-  padding: 1px;
+  padding: 0;
   color: white;
   overflow: hidden;
 }
+
 .light {
-background: white;
+  background: white;
 }
 
 body {
   margin: 0;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 .whiteline {
@@ -69,14 +71,14 @@ body {
   background: black;
 }
 
-.marquee {
+.sidescroll {
   white-space: nowrap;
   overflow: hidden;
   display: inline-block;
-  animation: marquee 11s linear infinite;
+  animation: sidescroll 11s linear infinite;
 }
 
-.marquee p {
+.sidescroll p {
   display: inline-block;
   font-size: 12px;
 }
@@ -100,7 +102,7 @@ body {
 }
 
 
-@keyframes marquee {
+@keyframes sidescroll {
   0% {
     transform: translate3d(0, 0, 0);
   }
