@@ -3,10 +3,10 @@
   <div class="wrapper">
   <div class="sidescroll">
     <p>
-      Der code funktioniert nicht.....<i>"Cornelius Caesar"</i>-Zitat Adrian.....Ich(die webseite) begehe suizid.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....<a href="https://www.bebis-schleswig-holstein.de/">bebis-schleswig-holstein.de</a>.....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
+      Der code funktioniert nicht.....<i>"Cornelius Caesar"</i>-Zitat Adrian.....Ich(die webseite) begehe suizid.....Press<a>F</a>to pray to Putin.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....<a href="https://www.bebis-schleswig-holstein.de/">bebis-schleswig-holstein.de</a>.....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
     </p>
     <p>
-      Der code funktioniert nicht.....<i>"Cornelius Caesar"</i>-Zitat Adrian.....Ich(die webseite) begehe suizid.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....<a href="https://www.bebis-schleswig-holstein.de/">bebis-schleswig-holstein.de</a>.....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
+      Der code funktioniert nicht.....<i>"Cornelius Caesar"</i>-Zitat Adrian.....Ich(die webseite) begehe suizid.....Press<a>F</a>to pray to Putin.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....<a href="https://www.bebis-schleswig-holstein.de/">bebis-schleswig-holstein.de</a>.....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
     </p>
   </div>
 </div>
@@ -21,9 +21,14 @@
   </p>
 </div>
 <div class=whitebckg>
-<div>
-  <button class="menu">Menu</button>
-</div>
+  <div class="dropdown">
+    <button class="menu">Dropdown</button>
+    <div class="dropdown-content">
+      <a href="/">Homepage</a>
+      <a href="/imagine-clicking-a-link-just-to-end-up-at-a-404-cringe">404</a>
+      <a href="http://www.ismycomputeron.com/">Suprise</a>
+    </div>
+  </div>
 <div class=textbdy>
   <h2>Wieso Boh?</h2>
   <p>
@@ -50,6 +55,10 @@ h1 {
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 25px;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
 }
 
 .invertedbox {
@@ -80,6 +89,7 @@ body {
   background: white;
   height: 1500px;
   width: 80%;
+  align-items: center;
 }
 .textbdy h2 {
   text-align: center;
@@ -106,7 +116,7 @@ body {
   white-space: nowrap;
   overflow: hidden;
   display: inline-block;
-  animation: sidescroll 11s linear infinite;
+  animation: sidescroll 16s linear infinite;
 }
 
 .sidescroll p {
@@ -128,11 +138,47 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-.menu:hover {
-  background-color: black;
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  text-align: center;
+  min-width: 100%;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  background: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background: black;
   color: white;
 }
 
+.dropdown:hover .dropdown-content {
+  display: block;
+  background: black;
+}
+
+.dropdown:hover .dropbtn {
+  background: black;
+}
+
+.menu:hover {
+  background: black;
+  color: white;
+}
 
 @keyframes sidescroll {
   0% {
