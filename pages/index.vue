@@ -10,6 +10,7 @@
   </div>
 </div>
 -->
+<header>
 <div class="invertedbox">
   <h1>
     Boh!
@@ -19,6 +20,10 @@
     Die offizielle Webseite
   </p>
 </div>
+</header>
+<p>
+  dear god help me please
+</p>
 <!--
 <div>
   <button class="menu">Menu</button>
@@ -40,6 +45,7 @@ h1 {
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 25px;
+  background: purple;
 }
 
 .invertedbox {
