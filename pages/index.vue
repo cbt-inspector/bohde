@@ -20,13 +20,13 @@
     Die offizielle Webseite
   </p>
 </div>
+
+</header>
 <div>
   <p>
     does it work now? maybe? please?
   </p>
 </div>
-</header>
-
 <!--
 <div>
   <button class="menu">Menu</button>
@@ -69,6 +69,10 @@ body {
 .whiteline {
   background-color: white;
   width: 70%;
+}
+
+.workdamnit {
+  background: white;
 }
 
 .skewer {
