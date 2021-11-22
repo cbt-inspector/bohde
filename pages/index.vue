@@ -42,7 +42,7 @@ p {
 }
 
 .invertedbox {
-  background-color: black;
+  background-color: grey;
   text-align: center;
   padding: 0;
   color: white;
