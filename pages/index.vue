@@ -2,11 +2,38 @@
 <header>
   <div class="wrapper">
   <div class="sidescroll">
+    <!--
+ &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+    -->
     <p>
-      Der code funktioniert nicht.....<i>"Cornelius Caesar"</i>-Zitat Adrian.....Ich(die webseite) begehe suizid.....Press<a>F</a>to pray to Putin.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....<a href="https://www.bebis-schleswig-holstein.de/">bebis-schleswig-holstein.de</a>.....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
+      Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Press <a href="#"><b>F</b></a> to pray to Putin &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Das hätte ich aber anders formuliert &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Raucher rauchen (es stinkt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Ich will die Lehrer alle umbringen und dann die Schule sprengen &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Händy spiele sind schlecht bitte kauf einfach ein PC &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
     </p>
     <p>
-      Der code funktioniert nicht.....<i>"Cornelius Caesar"</i>-Zitat Adrian.....Ich(die webseite) begehe suizid.....Press<a>F</a>to pray to Putin.....Das hätte ich aber anders formuliert.....Raucher rauchen (es stinkt).....Boh!.....[Insert Bee Movie transcript here].....<a href="https://www.bebis-schleswig-holstein.de/">bebis-schleswig-holstein.de</a>.....Ich will die Lehrer alle umbringen und dann die Schule sprengen.....Händy spiele sind schlecht bitte kauf einfach ein PC.....aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.....
+      Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Press <a href="#"><b>F</b></a> to pray to Putin &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Das hätte ich aber anders formuliert &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Raucher rauchen (es stinkt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Ich will die Lehrer alle umbringen und dann die Schule sprengen &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      Händy spiele sind schlecht bitte kauf einfach ein PC &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
     </p>
   </div>
 </div>
@@ -90,7 +117,6 @@ body {
 .textbdy {
   background: white;
   height: 1500px;
-  width: 70%;
   text-align: center;
 }
 .textbdy h2 {
@@ -102,6 +128,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   text-align: center;
+  width: 70%;
 }
 
 .skewer {
@@ -131,7 +158,7 @@ body {
   background-color: white;
   border: 1px solid black;
   color: black;
-  padding: 3px 30px;
+  padding: 3px 40px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
