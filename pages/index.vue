@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper">
+<!--  <div class="wrapper">
   <div class="sidescroll">
     <p>
       Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
@@ -9,7 +9,7 @@
     </p>
   </div>
 </div>
-
+-->
 <div class=invertedbox>
   <h1>
     Boh!
