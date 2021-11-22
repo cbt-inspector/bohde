@@ -19,7 +19,7 @@
     Die offizielle Webseite
   </p>
 </div>
-<div>
+<div class="purple">
   <button class="menu">Menu</button>
   <p>
     wieso wurde dies getan
@@ -50,9 +50,9 @@ p {
 }
 
 .adverse {
-  color: green;
   background: purple;
 }
+
 body {
   margin: 0;
   overflow: auto;
