@@ -10,17 +10,20 @@
   </div>
 </div>
 -->
-<div class=invertedbox>
+<div class="invertedbox">
   <h1>
     Boh!
   </h1>
-  <hr class=whiteline>
-  <p class=skewer>
+  <hr class="whiteline">
+  <p class="skewer">
     Die offizielle Webseite
   </p>
 </div>
-<div class=light>
-  <button class=menu>Menu</button>
+<div>
+  <button class="menu">Menu</button>
+  <p>
+    wieso wurde dies getan
+  </p>
 </div>
 
 </template>
@@ -46,10 +49,10 @@ p {
   overflow: hidden;
 }
 
-.light {
-  background: white;
+.adverse {
+  color: green;
+  background: purple;
 }
-
 body {
   margin: 0;
   overflow: hidden;
