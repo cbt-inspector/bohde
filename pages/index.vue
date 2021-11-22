@@ -54,12 +54,12 @@
       <a href="/">Homepage</a>
       <a href="/imagine-clicking-a-link-just-to-end-up-at-a-404-cringe">404</a>
       <a href="http://www.ismycomputeron.com/">Suprise</a>
-      <a href="https://www.bibun.ga/">Bing Chilling</a>
-      <a href="https://www.bibun.ga/tacdrip.png">😳 dro🅱pf 😳</a>
+      <a href="https://www.bibun.ga/">Bing Chilling&copy;</a>
+      <a href="https://www.bibun.ga/tacdrip.png">😳dro🅱pf😳</a>
     </div>
   </div>
 <div class=textbdy>
-  <h2>But why Boh!??? (wieso denn boh?!?!(ich muss es wissen)??!?!</h2>
+  <h2>But why Boh!??? (wieso denn boh?!?!(ich muss es wissen)??!)?!</h2>
   <p>
     If you’re anything like me, there’ll be plenty of times in Italy when you just don’t know the answer.
     Why hasn’t a single bus come in 45 minutes? I don’t know. Do you really need that piece of paperwork or can you get by with a wink and a smile? I don’t know. Which region makes the best pasta? Heaven help me, I don’t know.
@@ -67,6 +67,8 @@
     It means ‘I don’t know’, but in its most informal form – like when we shorten the phrase to ‘dunno’.
     Don’t be fooled by the transcription: it doesn’t rhyme with “oh” or “so” in English. Instead the vowel is shorter: more of a “buh”.
     And according to the dictionary, Italians have been making this funny 🅱 sound since circa 1840 to express “doubt, indifference or reticence”.
+    <pre></pre>
+    Der text hier hat eigentlich nichts mit Boh! zu tun und wurde einfach aus dem internet kopiert (&larr; das ist ein richtiger 🅱oh moment)
   </p>
 </div>
 </div>
@@ -127,8 +129,8 @@ body {
 .textbdy p {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
-  text-align: center;
   width: 70%;
+  margin-left: 50px;
 }
 
 .skewer {
@@ -158,7 +160,7 @@ body {
   background-color: white;
   border: 1px solid black;
   color: black;
-  padding: 3px 40px;
+  padding: 3px 42px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
