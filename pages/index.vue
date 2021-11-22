@@ -53,6 +53,7 @@ p {
 body {
   margin: 0;
   overflow: hidden;
+  background: white;
 }
 
 .whiteline {
