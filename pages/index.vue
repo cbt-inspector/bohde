@@ -43,18 +43,18 @@ p {
 }
 
 .invertedbox {
-  background-color: grey;
+  background-color: black;
   text-align: center;
   padding: 0;
   color: white;
   overflow: hidden;
-  height: 700px;
+  height: 400px;
 }
 
 body {
   margin: 0;
-  overflow: auto;
-  background: white;
+  overflow: hidden;
+  background-image: image('~/static/bingchilling.png');
 }
 
 .whiteline {
