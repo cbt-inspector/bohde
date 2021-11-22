@@ -19,13 +19,14 @@
     Die offizielle Webseite
   </p>
 </div>
-<div class="purple">
+<!--
+<div>
   <button class="menu">Menu</button>
   <p>
     wieso wurde dies getan
   </p>
 </div>
-
+-->
 </template>
 
 <style>
@@ -47,10 +48,6 @@ p {
   padding: 0;
   color: white;
   overflow: hidden;
-}
-
-.adverse {
-  background: purple;
 }
 
 body {
@@ -86,7 +83,7 @@ body {
   display: inline-block;
   font-size: 12px;
 }
-*/
+
 .menu {
   background-color: white;
   border: 1px solid black;
@@ -105,7 +102,7 @@ body {
   color: white;
 }
 
-/*
+
 @keyframes sidescroll {
   0% {
     transform: translate3d(0, 0, 0);
