@@ -22,7 +22,7 @@
 </div>
 <div class=whitebckg>
   <div class="dropdown">
-    <button class="menu">Dropdown</button>
+    <button class="menu">Menu</button>
     <div class="dropdown-content">
       <a href="/">Homepage</a>
       <a href="/imagine-clicking-a-link-just-to-end-up-at-a-404-cringe">404</a>
@@ -30,7 +30,7 @@
     </div>
   </div>
 <div class=textbdy>
-  <h2>Wieso Boh?</h2>
+  <h2>But why Boh!??? (wieso denn boh?!?!(ich muss es wissen)??!?!</h2>
   <p>
     If you’re anything like me, there’ll be plenty of times in Italy when you just don’t know the answer.
     Why hasn’t a single bus come in 45 minutes? I don’t know. Do you really need that piece of paperwork or can you get by with a wink and a smile? I don’t know. Which region makes the best pasta? Heaven help me, I don’t know.
@@ -89,7 +89,7 @@ body {
   background: white;
   height: 1500px;
   width: 80%;
-  align-items: center;
+  text-align: center;
 }
 .textbdy h2 {
   text-align: center;
