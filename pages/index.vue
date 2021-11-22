@@ -1,18 +1,15 @@
 <template>
-  <div class="ticker">
-    <div class="ticker-news">
-      <span>
-        <span>Der code funktioniert nicht...</span>
-        <span>Luca hat die Hausaufgaben vergessen...</span>
-        <span>Ich(die webseite) begehe suizid...</span>
-        <span>Das hätte ich aber anders formuliert...</span>
-        <span>Raucher rauchen (es stinkt)...</span>
-        <span>Boh!...</span>
-        <span>[Insert Bee Movie transcript here]...</span>
-        <span>https://www.bebis-schleswig-holstein.de/...</span>
-      </span>
+  <div class="wrapper">
+    <div class="marquee">
+      <p>
+        Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
+      </p>
+      <p>
+        Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
+      </p>
     </div>
   </div>
+
   <div class=invertedbox>
     <h1>
       Boh!
@@ -22,7 +19,9 @@
       Die offizielle Webseite
     </p>
   </div>
-
+  <div>
+    <button class=menu>Menu</button>
+  </div>
 </template>
 
 <style>
@@ -60,32 +59,51 @@ body {
   transform: skewY(-3deg);
 }
 
-.ticker-news {
-  width: 6000px;
-  color: #7c7c7c;
-  font-size: 12px;
+.wrapper {
+  max-width: 100%;
+  overflow: hidden;
+  color: white;
   background: black;
 }
 
-.ticker {
+.marquee {
+  white-space: nowrap;
   overflow: hidden;
-  width: 100%;
-  left: 0;
-  font-family: 'Open Sans', sans-serif;
-}
-
-.ticker-news>* {
   display: inline-block;
-  animation: news 15s infinite linear;
+  animation: marquee 11s linear infinite;
 }
 
-@keyframes news {
+.marquee p {
+  display: inline-block;
+  font-size: 12px;
+}
+
+.menu {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  padding: 3px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.menu:hover {
+  background-color: black;
+  color: white;
+}
+
+
+@keyframes marquee {
   0% {
-    transform: translateX(0);
+    transform: translate3d(0, 0, 0);
   }
 
   100% {
-    transform: translateX(-3000px);
+    transform: translate3d(-50%, 0, 0);
   }
 }
 
