@@ -119,7 +119,6 @@ body {
 .textbdy {
   background: white;
   height: 1500px;
-  text-align: center;
 }
 .textbdy h2 {
   text-align: center;
@@ -130,7 +129,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   width: 70%;
-  margin-left: 50px;
+  margin-left: 15%;
 }
 
 .skewer {
@@ -160,11 +159,11 @@ body {
   background-color: white;
   border: 1px solid black;
   color: black;
-  padding: 3px 42px;
+  padding: 3px 50px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   transition-duration: 0.2s;
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
