@@ -42,6 +42,7 @@ p {
   text-align: center;
   padding: 1px;
   color: white;
+  overflow: hidden;
 }
 .light {
 background: white;
@@ -49,7 +50,6 @@ background: white;
 
 body {
   margin: 0;
-  height: 700px;
   overflow-y: hidden;
 }
 
