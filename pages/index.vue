@@ -19,11 +19,12 @@
   <p class="skewer">
     Die offizielle Webseite
   </p>
+  <p>
+    dear god help me please
+  </p>
 </div>
 </header>
-<p>
-  dear god help me please
-</p>
+
 <!--
 <div>
   <button class="menu">Menu</button>
