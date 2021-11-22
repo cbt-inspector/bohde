@@ -1,5 +1,6 @@
 <template>
-<!--  <div class="wrapper">
+<header>
+  <div class="wrapper">
   <div class="sidescroll">
     <p>
       Der code funktioniert nicht...Luca hat die Hausaufgaben vergessen...Ich(die webseite) begehe suizid...Das hätte ich aber anders formuliert...Raucher rauchen (es stinkt)...Boh!...[Insert Bee Movie transcript here]...https://www.bebis-schleswig-holstein.de/...
@@ -9,8 +10,7 @@
     </p>
   </div>
 </div>
--->
-<header>
+
 <div class="invertedbox">
   <h1>
     Boh!
@@ -21,7 +21,7 @@
   </p>
 </div>
 
-<div>
+<div class=workdamnit>
   <button class="menu">Menu</button>
   <p>
     wieso wurde dies getan
@@ -41,7 +41,6 @@ h1 {
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 25px;
-  background: purple;
 }
 
 .invertedbox {
