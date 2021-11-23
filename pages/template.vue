@@ -90,7 +90,7 @@ a {
 }
 .textbdy {
   background: white;
-  height: 1500px;
+  height: auto;
 }
 .textbdy h2 {
   text-align: center;

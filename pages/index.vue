@@ -238,8 +238,7 @@ a {
   color: rgba(255, 255, 255, 0.5);
 }
 
-.footeradv th,
-td {
+.footeradv th, td {
   font-family: 'Courier Prime', sans-serif;
 }
 
