@@ -167,5 +167,6 @@ a {
 .foottable {
   width: 60%;
   margin: auto, 20%, auto, 20%;
+  background: blue;
 }
 </style>
