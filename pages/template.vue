@@ -25,9 +25,10 @@
 </div>
 </div>
 <div class="footeradv">
+<div class="foottable">
   <table>
     <tr>
-      <th colspan="3">Contact info or smth idk</th>
+      <th colspan="3" style="font-family:'Open Sans',sans-serif">Contact info or smth idk</th>
     </tr>
     <tr>
       <td>email?</td>
@@ -35,6 +36,7 @@
       <td>yall wanna go murder some ducks?</td>
     </tr>
   </table>
+</div>
 </div>
 </header>
 </template>
@@ -159,11 +161,11 @@ a {
   overflow: hidden;
   color: white;
 }
-.footeradv table {
-  font-family: 'Open Sans', sans-serif;
-}
 .footeradv td, th, {
   font-family: 'Courier Prime', monospace;
 }
-
+.foottable {
+  width: 60%;
+  margin: auto, 20%, auto, 20%;
+}
 </style>
