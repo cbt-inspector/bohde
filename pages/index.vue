@@ -1,84 +1,112 @@
 <template>
-<header>
-  <div class="wrapper">
-  <div class="sidescroll">
-    <!--
- &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-    -->
-    <p>
-      Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Press <a href="#"><b>F</b></a> to pray to Putin &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Das hätte ich aber anders formuliert &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Raucher rauchen (es stinkt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Ich will die Lehrer alle umbringen und dann die Schule sprengen &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Händy spiele sind schlecht bitte kauf einfach ein PC &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      DaBaby says:"Let's Go!" &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-    </p>
-    <p>
-      Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Press <a href="#"><b>F</b></a> to pray to Putin &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Das hätte ich aber anders formuliert &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Raucher rauchen (es stinkt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Ich will die Lehrer alle umbringen und dann die Schule sprengen &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      Händy spiele sind schlecht bitte kauf einfach ein PC &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-      DaBaby says:"Let's Go!" &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-    </p>
-  </div>
-</div>
-
-<div class="invertedbox">
-  <h1>
-    Boh!
-  </h1>
-  <hr class="whiteline">
-  <p class="skewer">
-    Die offizielle Webseite
-  </p>
-</div>
-<div class=whitebckg>
-  <div class="dropdown">
-    <button class="menu">Menu</button>
-    <div class="dropdown-content">
-      <a href="/">Homepage</a>
-      <a href="/imagine-clicking-a-link-just-to-end-up-at-a-404-cringe">404</a>
-      <a href="http://www.ismycomputeron.com/">Suprise</a>
-      <a href="https://www.bibun.ga/">Bing Chilling&copy;</a>
-      <a href="https://www.bibun.ga/tacdrip.png">😳dro🅱pf😳</a>
+  <header>
+    <div class="wrapper">
+      <div class="sidescroll">
+        <!--
+   &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+      -->
+        <p>
+          Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Press <a href="#"><b>F</b></a> to pray to Putin &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Das hätte ich aber anders formuliert &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Raucher rauchen (es stinkt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Ich will die Lehrer alle umbringen und dann die Schule sprengen &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Händy spiele sind schlecht bitte kauf einfach ein PC &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          DaBaby says:"Let's Go!" &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+        </p>
+        <p>
+          Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Press <a href="#"><b>F</b></a> to pray to Putin &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Das hätte ich aber anders formuliert &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Raucher rauchen (es stinkt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Ich will die Lehrer alle umbringen und dann die Schule sprengen &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Händy spiele sind schlecht bitte kauf einfach ein PC &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          DaBaby says:"Let's Go!" &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+        </p>
+      </div>
     </div>
-  </div>
-<div class=textbdy>
-  <h2>But why Boh!??? (wieso denn boh?!?!(ich muss es wissen)??!)?!</h2>
-  <p>
-    If you’re anything like me, there’ll be plenty of times in Italy when you just don’t know the answer.
-    Why hasn’t a single bus come in 45 minutes? I don’t know. Do you really need that piece of paperwork or can you get by with a wink and a smile? I don’t know. Which region makes the best pasta? Heaven help me, I don’t know.
-    That’s why I’m such a big fan of today’s word: <b>boh</b>.
-    It means ‘I don’t know’, but in its most informal form – like when we shorten the phrase to ‘dunno’.
-    Don’t be fooled by the transcription: it doesn’t rhyme with “oh” or “so” in English. Instead the vowel is shorter: more of a “buh”.
-    And according to the dictionary, Italians have been making this funny 🅱 sound since circa 1840 to express “doubt, indifference or reticence”.
-    <pre></pre>
-    Der text hier hat eigentlich nichts mit Boh! zu tun und wurde einfach aus dem internet kopiert (&larr; das ist ein richtiger 🅱oh moment)
-  </p>
-</div>
-</div>
-</header>
+
+    <div class="invertedbox">
+      <h1>
+        Boh!
+      </h1>
+      <hr class="whiteline">
+      <p class="skewer">
+        Die offizielle Webseite
+      </p>
+    </div>
+    <div class=whitebckg>
+      <div class="dropdown">
+        <button class="menu">Menu</button>
+        <div class="dropdown-content">
+          <a href="/">Homepage</a>
+          <a href="/imagine-clicking-a-link-just-to-end-up-at-a-404-cringe">404</a>
+          <a href="http://www.ismycomputeron.com/">Suprise</a>
+          <a href="https://www.bibun.ga/">Bing Chilling&copy;</a>
+          <a href="https://www.bibun.ga/tacdrip.png">😳dro🅱pf😳</a>
+        </div>
+      </div>
+      <div class=textbdy>
+        <h2>But why Boh!??? (wieso denn boh?!?!(ich muss es wissen)??!)?!</h2>
+        <p>
+          If you’re anything like me, there’ll be plenty of times in Italy when you just don’t know the answer.
+          Why hasn’t a single bus come in 45 minutes? I don’t know. Do you really need that piece of paperwork or can you get by with a wink and a smile? I don’t know. Which region makes the best pasta? Heaven help me, I don’t know.
+          That’s why I’m such a big fan of today’s word: <b>boh</b>.
+          It means ‘I don’t know’, but in its most informal form – like when we shorten the phrase to ‘dunno’.
+          Don’t be fooled by the transcription: it doesn’t rhyme with “oh” or “so” in English. Instead the vowel is shorter: more of a “buh”.
+          And according to the dictionary, Italians have been making this funny 🅱 sound since circa 1840 to express “doubt, indifference or reticence”.
+          </p>
+          <hr style="opacity:0">
+          <p>
+          Der text hier hat eigentlich nichts mit Boh! zu tun und wurde einfach aus dem internet kopiert (&larr; das ist ein richtiger 🅱oh moment)
+        </p>
+      </div>
+    </div>
+    <div class="footeradv">
+      <div class="foottable" style="margin-top:10px">
+        <table style="margin-left:auto;margin-right:auto;">
+          <tr>
+            <th colspan="3" style="align-text:center">Contact info or smth idk</th>
+          </tr>
+          <tr>
+            <td>an email?</td>
+            <td>&nbsp;|&nbsp;</td>
+            <td>another email?</td>
+            <td>&nbsp;|&nbsp;</td>
+            <td>dababy email?</td>
+          </tr>
+        </table>
+        <hr>
+        <a style="color: rgba(255, 255, 255, 0.5)">&copy; 2021 Das-Boh AG. All Rights Reserved</a>
+      </div>
+    </div>
+  </header>
 </template>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/*monospace*/
+body {
+  margin: 0;
+  overflow: auto;
+}
 
 h1 {
   font-family: 'Open Sans', sans-serif;
@@ -95,6 +123,7 @@ a {
 }
 
 .invertedbox {
+  font-family: 'Comfortaa', serif;
   background-color: black;
   text-align: center;
   padding: 0;
@@ -103,10 +132,10 @@ a {
   height: 270px;
 }
 
-body {
-  margin: 0;
-  overflow: auto;
-  background-image: image('~/static/bingchilling.png');
+.invertedbox a {
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  color: white;
 }
 
 .whiteline {
@@ -116,17 +145,20 @@ body {
 
 .whitebckg {
   background: white;
+  height: auto;
 }
 
 .textbdy {
   background: white;
-  height: 1500px;
+  height: 1000px;
 }
+
 .textbdy h2 {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
   font-size: 28px;
 }
+
 .textbdy p {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
@@ -136,25 +168,6 @@ body {
 
 .skewer {
   transform: skewY(-3deg);
-}
-
-.wrapper {
-  max-width: 100%;
-  overflow: hidden;
-  color: white;
-  background: black;
-}
-
-.sidescroll {
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-  animation: sidescroll 16s linear infinite;
-}
-
-.sidescroll p {
-  display: inline-block;
-  font-size: 12px;
 }
 
 .menu {
@@ -169,6 +182,11 @@ body {
   transition-duration: 0.2s;
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
+}
+
+.menu:hover {
+  background: black;
+  color: white;
 }
 
 .dropdown {
@@ -192,6 +210,7 @@ body {
   padding: 12px 16px;
   text-decoration: none;
   display: block;
+  transition-duration: 0.2s;
 }
 
 .dropdown-content a:hover {
@@ -208,9 +227,62 @@ body {
   background: black;
 }
 
-.menu:hover {
+.footeradv {
+  position: relative;
+  bottom: 0px;
   background: black;
+  width: 100%;
+  text-align: center;
+  height: 150px;
+  overflow: hidden;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.footeradv th,
+td {
+  font-family: 'Courier Prime', sans-serif;
+}
+
+.footeradv hr {
+  border: none;
+  border-top: 3px double #333;
+  color: #333;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+  width: 30%;
+}
+
+.footeradv hr:after {
+  background: black;
+  content: '§';
+  padding: 0 4px;
+  position: relative;
+  top: -13px;
+  color: grey;
+}
+
+.foottable {
+  background: black;
+}
+
+.wrapper {
+  max-width: 100%;
+  overflow: hidden;
   color: white;
+  background: black;
+}
+
+.sidescroll {
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: sidescroll 16s linear infinite;
+}
+
+.sidescroll p {
+  display: inline-block;
+  font-size: 12px;
 }
 
 @keyframes sidescroll {
@@ -222,5 +294,4 @@ body {
     transform: translate3d(-50%, 0, 0);
   }
 }
-
 </style>
