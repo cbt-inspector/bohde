@@ -25,10 +25,10 @@
 </div>
 </div>
 <div class="footeradv">
-<div class="foottable">
+<div class="foottable" style="margin-top:10px">
   <table style="margin-left:auto;margin-right:auto;">
     <tr>
-      <th colspan="3" style="font-family:'Open Sans',sans-serif;align-text:center">Contact info or smth idk</th>
+      <th colspan="3" style="align-text:center">Contact info or smth idk</th>
     </tr>
     <tr>
       <td>an email?</td>
@@ -38,7 +38,7 @@
       <td>dababy email?</td>
     </tr>
   </table>
-  <hr style="color: rgba(255, 255, 255, 0.5);width:10%">
+  <hr>
   <a style="color: rgba(255, 255, 255, 0.5)">&copy; 2021 Das-Boh AG. All Rights Reserved</a>
 </div>
 </div>
@@ -165,9 +165,25 @@ a {
   overflow: hidden;
   color: rgba(255, 255, 255, 0.5);
 }
-.footeradv td, th, {
+.footeradv th, td {
   font-family: 'Courier Prime', sans-serif;
-  text-align: center;
+}
+.footeradv hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+    width: 30%;
+}
+.footeradv hr:after {
+    background: black;
+    content: '§';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+    color: grey;
 }
 .foottable {
   background: black;
