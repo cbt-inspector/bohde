@@ -124,6 +124,7 @@ a {
   padding: 12px 16px;
   text-decoration: none;
   display: block;
+  transition-duration: 0.2s;
 }
 .dropdown-content a:hover {
   background: black;
@@ -137,7 +138,7 @@ a {
   background: black;
 }
 .footeradv {
-  position: fixed;
+  position: relative;
   bottom: 0px;
   background: pink;
   width: 100%;
