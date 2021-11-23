@@ -24,13 +24,12 @@
   <h2>Heading</h2>
 </div>
 </div>
-</header>
-
 <div class="footeradv">
   <p>
     excess cringe above
   </p>
 </div>
+</header>
 </template>
 
 <style>
