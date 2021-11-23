@@ -103,7 +103,7 @@ a {
 
 body {
   margin: 0;
-  overflow: hidden;
+  overflow: auto;
   background-image: image('~/static/bingchilling.png');
 }
 
