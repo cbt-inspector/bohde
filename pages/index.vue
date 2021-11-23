@@ -150,10 +150,6 @@ body {
   animation: sidescroll 16s linear infinite;
 }
 
-.sidescroll:hover {
-  animation: sidescroll 30s linear infinite;
-}
-
 .sidescroll p {
   display: inline-block;
   font-size: 12px;
