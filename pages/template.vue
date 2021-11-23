@@ -98,7 +98,7 @@ a {
   padding: 0;
   color: white;
   overflow: hidden;
-  height: 270px;
+  height: 400px;
 }
 
 body {
@@ -148,10 +148,6 @@ body {
   overflow: hidden;
   display: inline-block;
   animation: sidescroll 16s linear infinite;
-}
-
-.sidescroll:hover {
-  animation: sidescroll 30s linear infinite;
 }
 
 .sidescroll p {
