@@ -25,9 +25,16 @@
 </div>
 </div>
 <div class="footeradv">
-  <p>
-    excess cringe above
-  </p>
+  <table>
+    <tr>
+      <th colspan="3">Contact info or smth idk</th>
+    </tr>
+    <tr>
+      <td>email?</td>
+      <td>another email?</td>
+      <td>yall wanna go murder some ducks?</td>
+    </tr>
+  </table>
 </div>
 </header>
 </template>
@@ -68,6 +75,7 @@ a {
 }
 .whitebckg {
   background: white;
+  height: auto;
 }
 .textbdy {
   background: white;
@@ -139,12 +147,21 @@ a {
 .footeradv {
   position: relative;
   bottom: 0px;
-  background: pink;
+  background: black;
   width: 100%;
-  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.4);
   text-align: center;
   height: 150px;
   overflow: hidden;
+  color: white;
+}
+.footeradv table {
+  font-family: 'Open Sans', sans-serif;
+  width: 70%
+  left: 15%;
+  right: 15%;
+}
+.footeradv td, th, {
+  font-family: 'Open Sans', sans-serif;
 }
 
 </style>
