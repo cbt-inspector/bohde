@@ -41,6 +41,9 @@
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*monospace*/
 body {
   margin: 0;
   overflow: auto;
@@ -58,6 +61,7 @@ a {
 }
 
 .invertedbox {
+  font-family: 'Comfortaa', serif;
   background-color: black;
   text-align: center;
   padding: 0;
@@ -66,6 +70,7 @@ a {
   height: 270px;
 }
 .invertedbox a {
+  font-family: 'Open Sans', sans-serif;
   text-decoration: none;
   color: white;
 }
@@ -156,12 +161,9 @@ a {
 }
 .footeradv table {
   font-family: 'Open Sans', sans-serif;
-  width: 70%
-  left: 15%;
-  right: 15%;
 }
 .footeradv td, th, {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Courier Prime', monospace;
 }
 
 </style>
