@@ -53,6 +53,10 @@ a {
   overflow: hidden;
   height: 270px;
 }
+.invertedbox a {
+  text-decoration: none;
+  color: white;
+}
 .whiteline {
   background-color: white;
   width: 70%;
@@ -91,6 +95,10 @@ a {
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
 }
+.menu:hover {
+  background: black;
+  color: white;
+}
 .dropdown {
   position: relative;
   display: inline-block;
@@ -122,9 +130,6 @@ a {
 .dropdown:hover .dropbtn {
   background: black;
 }
-.menu:hover {
-  background: black;
-  color: white;
-}
+
 
 </style>
