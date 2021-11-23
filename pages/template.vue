@@ -25,6 +25,9 @@
 </div>
 </div>
 </header>
+<footer>
+
+</footer>
 </template>
 
 <style>
@@ -130,6 +133,13 @@ a {
 .dropdown:hover .dropbtn {
   background: black;
 }
-
+.footer {
+  position: fixed;
+  bottom: 0px;
+  background: pink;
+  width: 100%;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.4);
+  text-align: center;
+}
 
 </style>
