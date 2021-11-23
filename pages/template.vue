@@ -26,16 +26,19 @@
 </div>
 <div class="footeradv">
 <div class="foottable">
-  <table>
+  <table style="margin-left:auto;margin-right:auto;">
     <tr>
       <th colspan="3" style="font-family:'Open Sans',sans-serif">Contact info or smth idk</th>
     </tr>
     <tr>
-      <td>email?</td>
+      <td>an email?</td>
+      <td>&nbsp;|&nbsp;</td>
       <td>another email?</td>
-      <td>yall wanna go murder some ducks?</td>
+      <td>&nbsp;|&nbsp;</td>
+      <td>dababy email?</td>
     </tr>
   </table>
+  <a style="color: rgba(255, 255, 255, 0.5)">&copy; 2021 Das-Boh AG. All Rights Reserved</a>
 </div>
 </div>
 </header>
@@ -163,11 +166,9 @@ a {
 }
 .footeradv td, th, {
   font-family: 'Courier Prime', monospace;
+  text-align: center;
 }
 .foottable {
-  width: 60%;
-  margin-left: 20%;
-  margin-right: 20%;
-  background: blue;
+  background: black;
 }
 </style>
