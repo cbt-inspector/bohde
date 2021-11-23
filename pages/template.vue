@@ -140,6 +140,7 @@ a {
   width: 100%;
   box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.4);
   text-align: center;
+  height: 150px;
 }
 
 </style>
