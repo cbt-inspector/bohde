@@ -25,9 +25,12 @@
 </div>
 </div>
 </header>
-<footer>
 
-</footer>
+<div class="footeradv">
+  <p>
+    excess cringe above
+  </p>
+</div>
 </template>
 
 <style>
@@ -133,7 +136,7 @@ a {
 .dropdown:hover .dropbtn {
   background: black;
 }
-.footer {
+.footeradv {
   position: fixed;
   bottom: 0px;
   background: pink;
@@ -141,6 +144,7 @@ a {
   box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.4);
   text-align: center;
   height: 150px;
+  overflow: hidden;
 }
 
 </style>
