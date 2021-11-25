@@ -60,20 +60,35 @@
           <a href="https://www.bibun.ga/tacdrip.png">😳dro🅱pf😳</a>
         </div>
       </div>
-      <div class=textbdy>
-        <h2>But why Boh!??? (wieso denn boh?!?!(ich muss es wissen)??!)?!</h2>
-        <p>
-          If you’re anything like me, there’ll be plenty of times in Italy when you just don’t know the answer.
-          Why hasn’t a single bus come in 45 minutes? I don’t know. Do you really need that piece of paperwork or can you get by with a wink and a smile? I don’t know. Which region makes the best pasta? Heaven help me, I don’t know.
-          That’s why I’m such a big fan of today’s word: <b>boh</b>.
-          It means ‘I don’t know’, but in its most informal form – like when we shorten the phrase to ‘dunno’.
-          Don’t be fooled by the transcription: it doesn’t rhyme with “oh” or “so” in English. Instead the vowel is shorter: more of a “buh”.
-          And according to the dictionary, Italians have been making this funny 🅱 sound since circa 1840 to express “doubt, indifference or reticence”.
-          </p>
-          <hr style="opacity:0">
-          <p>
-          Der text hier hat eigentlich nichts mit Boh! zu tun und wurde einfach aus dem internet kopiert (&larr; das ist ein richtiger 🅱oh moment)
-        </p>
+      <div class="row">
+        <div class="lcolumn">
+          <div class="leftcolumn">
+            <p>
+              i could put system updates here
+              <br>&nbsp;<br>
+              or maybe some <i>bing chilling</i><br>
+              <img src="~/static/kickl.jpg" alt="kickl" style="margin-left:20%;width:620px;height:2000px;"><br>
+              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (or just <i>[<b>HERBERT KICKL</b>]</i>)
+
+
+
+            </p>
+          </div>
+        </div>
+        <div class="rcolumn">
+          <div class="rightcolumn">
+            <p style="font-size:22px;margin-left:4%;margin-right:4%">
+              <b>But why Boh!??? (wieso denn boh?!?!(ich muss es wissen)??!)?!</b>
+              <br>If you’re anything like me, there’ll be plenty of times in Italy when you just don’t know the answer.
+              Why hasn’t a single bus come in 45 minutes? I don’t know. Do you really need that piece of paperwork or can you get by with a wink and a smile? I don’t know. Which region makes the best pasta? Heaven help me, I don’t know.
+              That’s why I’m such a big fan of today’s word: <b>boh</b>.
+              It means ‘I don’t know’, but in its most informal form – like when we shorten the phrase to ‘dunno’.
+              Don’t be fooled by the transcription: it doesn’t rhyme with “oh” or “so” in English. Instead the vowel is shorter: more of a “buh”.
+              And according to the dictionary, Italians have been making this funny 🅱 sound since circa 1840 to express “doubt, indifference or reticence”.<br>&nbsp;
+              <br>Der text hier hat eigentlich nichts mit Boh! zu tun und wurde einfach aus dem internet kopiert (das ist ein richtiger 🅱oh moment)<br>&nbsp;
+            </p>
+          </div>
+        </div>
       </div>
     </div>
     <div class="footeradv">
@@ -165,7 +180,31 @@ a {
   width: 70%;
   margin-left: 15%;
 }
-
+.rightcolumn {
+  background: rgba(230,230,230,1);
+  margin-left: 15%;
+  margin-right: 15%
+}
+.leftcolumn {
+  background: rgba(230,230,230,1);
+  width: 90%;
+  margin-left: 10%;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.rcolumn {
+  float: left;
+  display: inline;
+  width: 30%;
+}
+.lcolumn {
+  float: left;
+  display: inline;
+  width: 70%;
+}
 .skewer {
   transform: skewY(-3deg);
 }
@@ -174,7 +213,7 @@ a {
   background-color: white;
   border: 1px solid black;
   color: black;
-  padding: 3px 50px;
+  padding: 3px 54px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -211,6 +250,8 @@ a {
   text-decoration: none;
   display: block;
   transition-duration: 0.2s;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px
 }
 
 .dropdown-content a:hover {
