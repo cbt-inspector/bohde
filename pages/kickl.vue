@@ -1,13 +1,5 @@
 
-
 <template>
-<script>
-function kicklfunc(kik) {
-  var mult = document.getElementById("inpt").value;
-  var kik = mult /1.723300970873786407766990291262;
-  document.getElementById("valfield").innerHTML = "Die länge ist " + kik + " Kickl lang";
-}
-</script>
 <header>
 <div class="invertedbox">
   <h1>
@@ -214,3 +206,11 @@ a {
   background: black;
 }
 </style>
+
+<script>
+function kicklfunc(kik) {
+  var mult = document.getElementById("inpt").value;
+  var kik = mult /1.723300970873786407766990291262;
+  document.getElementById("valfield").innerHTML = "Die länge ist " + kik + " Kickl lang";
+}
+</script>
