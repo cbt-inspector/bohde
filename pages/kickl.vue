@@ -25,6 +25,13 @@
   <h2>Kickl Umrechner</h2>
   <br>
   <div class="calc">
+  <script>
+  function kicklfunc(kik) {
+    var mult = document.getElementById("inpt").value;
+    var kik = mult /1.723300970873786407766990291262;
+    document.getElementById("valfield").innerHTML = "Die länge ist " + kik + " Kickl lang"
+  }
+  </script>
     <button type="submit" onclick="kicklfunc()">Gib hier meter ein &rarr;</button>
     <input id="inpt" type="number">
     <a id="valfield" style="color:red">Und hier wird es in Kickl angegeben</a>
@@ -79,7 +86,7 @@ a {
   margin-right: auto;
 }
 .calc a, input, button {
-  font-family: 'Comfortaa', serif;
+  font-family: 'Comfortaa', sans-serif;
   font-size: 25px;
 }
 .invertedbox {
@@ -206,11 +213,3 @@ a {
   background: black;
 }
 </style>
-
-<script>
-function kicklfunc(kik) {
-  var mult = document.getElementById("inpt").value;
-  var kik = mult /1.723300970873786407766990291262;
-  document.getElementById("valfield").innerHTML = "Die länge ist " + kik + " Kickl lang";
-}
-</script>

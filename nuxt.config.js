@@ -1,7 +1,7 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-
+  ssr: false,
   // Global App headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'The Boh!',
