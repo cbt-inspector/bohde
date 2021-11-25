@@ -83,11 +83,11 @@
             <th colspan="3" style="align-text:center">Contact info or smth idk</th>
           </tr>
           <tr>
-            <td>an email?</td>
+            <td><a href= "mailto:owen@theboh.de">owen@theboh.de</a></td>
             <td>&nbsp;|&nbsp;</td>
-            <td>another email?</td>
+            <td><a href= "mailto:luca@theboh.de">luca@theboh.de</a></td>
             <td>&nbsp;|&nbsp;</td>
-            <td>dababy email?</td>
+            <td><a href= "mailto:emil@theboh.de">emil@theboh.de</a></td>
           </tr>
         </table>
         <hr>
@@ -238,8 +238,9 @@ a {
   color: rgba(255, 255, 255, 0.5);
 }
 
-.footeradv th, td {
+.footeradv th, td, a {
   font-family: 'Courier Prime', sans-serif;
+  color: grey;
 }
 
 .footeradv hr {
