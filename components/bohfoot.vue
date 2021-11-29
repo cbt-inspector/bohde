@@ -3,7 +3,7 @@
     <div class="foottable" style="margin-top:10px">
       <table style="margin-left:auto;margin-right:auto;">
         <tr>
-          <th colspan="3" style="align-text:center">Contact info or smth idk</th>
+          <th colspan="5" style="align-text:center">Contact info or smth idk</th>
         </tr>
         <tr>
           <td><a href= "mailto:owen@theboh.de">owen@theboh.de</a></td>

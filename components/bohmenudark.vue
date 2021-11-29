@@ -19,9 +19,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .menu {
-  background-color: rgba(0, 255, 55, 1);
-  border: 1px solid black;
-  color: black;
+  background-color: #12141d;
+  color: rgba(0, 255, 55, 1);
+  border: 0px;
   padding: 3px 54px;
   text-align: center;
   text-decoration: none;
@@ -46,7 +46,7 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: rgba(0, 255, 55, 1);
+  background-color: rgba(26, 32, 44, 1);
   text-align: center;
   min-width: 100%;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -55,7 +55,7 @@
 
 .dropdown-content a {
   color: black;
-  background: rgba(0, 255, 55, 1);
+  background: rgba(26, 32, 44, 1);
   padding: 12px 16px;
   text-decoration: none;
   display: block;

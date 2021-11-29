@@ -6,19 +6,7 @@
 <!--Text Body STARTS Here!!!!!-->
       <div class="textbody">
         <h2>Lorem ipsum</h2>
-        <p style="color:rgba(63, 81, 99, 1)">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
-        </p>
-        <p style="color:rgba(227, 116, 0, 1)">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>
-          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
-        </p>
-        <p style="color:rgba(255, 10, 0, 0.7)">
+        <p style="color:rgba(0, 255, 55, 0.7)">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>
@@ -30,18 +18,20 @@
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>
           Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
         </p>
-        <p style="color:rgba(58, 89, 200, 1)">
+      </div>
+      <div class="row">
+        <div class="lcolumn">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>
           Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
-        </p>
-        <p style="color:rgba(232, 0, 110, 0.95)">
+        </div>
+        <div class="rcolumn">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>
           Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
-        </p>
+        </div>
       </div>
 <!--Text Body STOPS Here!!!!!-->
     </div>
@@ -64,9 +54,46 @@ rgba(63, 81, 99, 1)
 .maincontainer {
   background: #12141d;
   padding-bottom: 50px;
+  height: 800px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.rcolumn {
+  float: left;
+  display: inline;
+  position: absolute;
+  padding: 15px;
+  margin-top: 50px;
+  right: 15%;
+  width: 30%;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 25px;
+  background: rgba(26, 32, 44, 1);
+  border: 1px solid;
+  border-color: rgba(0, 255, 55, 0.3);
+  border-radius: 20px;
+}
+.lcolumn {
+  float: left;
+  display: inline;
+  position: absolute;
+  padding: 15px;
+  margin-top: 50px;
+  left: 15%;
+  width: 30%;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 25px;
+  background: rgba(26, 32, 44, 1);
+  border: 1px solid;
+  border-color: rgba(0, 255, 55, 0.3);
+  border-radius: 20px;
 }
 .textbody {
   background: black;
+  border-radius: 0px 0px 50px 50px;
   /*color: rgba(232, 0, 110, 0.7);*/
   height: auto;
   padding-top: 20px;

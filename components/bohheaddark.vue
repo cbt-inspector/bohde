@@ -46,7 +46,7 @@
       <h1>
         <a href="/" style="font-family:'Open Sans',sans-serif;text-decoration:none;color:rgba(0, 255, 55, 1);">Boh!</a>
       </h1>
-      <hr style="background-color:white;width:70%;">
+      <hr class="hline">
       <p class="skewer" style="transform:skewY(-3deg);color:rgba(0, 255, 55, 1)">
         Die offizielle Webseite
       </p>
@@ -77,12 +77,14 @@ body {
 .temp p {
   font-family: 'Open Sans', sans-serif;
   font-size: 25px;
-  color: white;
+  color: rgba(0, 255, 55, 1);
 }
 
 .temp a {
   font-family: 'Open Sans', sans-serif;
-  color: cyan;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgba(232, 49, 98, 1);
 }
 
 .invertedbox {
@@ -90,11 +92,15 @@ body {
   background-color: black;
   text-align: center;
   padding: 0;
-  color: white;
+  color: #12141d;
   overflow: hidden;
   height: 270px;
 }
-
+.hline {
+  color: rgba(26, 32, 44, 1);
+  border: 1px solid;
+  width: 70%;
+}
 .wrapper {
   max-width: 100%;
   overflow: hidden;
