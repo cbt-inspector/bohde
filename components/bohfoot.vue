@@ -14,7 +14,7 @@
         </tr>
       </table>
       <hr>
-      <a style="color: rgba(255, 255, 255, 0.5)">&copy; 2021 Das-Boh AG. All Rights Reserved</a>
+      <a style="color: rgba(255, 255, 255, 0.5)">&copy; 2022 Das-Boh AG. All Rights Reserved</a>
     </div>
   </div>
 </template>
