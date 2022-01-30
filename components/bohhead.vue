@@ -15,7 +15,6 @@
           Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-          Ich will die Lehrer alle umbringen und dann die Schule sprengen &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Händy spiele sind schlecht bitte kauf einfach ein PC &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
@@ -32,7 +31,6 @@
           Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-          Ich will die Lehrer alle umbringen und dann die Schule sprengen &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Händy spiele sind schlecht bitte kauf einfach ein PC &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
