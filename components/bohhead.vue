@@ -6,6 +6,7 @@
    &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
       -->
         <p>
+          Deine Meinung ist Fakt !&nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
@@ -22,6 +23,7 @@
           Like and subscribe to bomb the fuck out of France &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
         </p>
         <p>
+          Deine Meinung ist Fakt !&nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
