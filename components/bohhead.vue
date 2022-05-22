@@ -10,9 +10,10 @@
           Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-          Press <a href="#"><b>F</b></a> to pray to Putin &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Press <a href="#"><b>F</b></a> to pray to Zelenskyy &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Das hätte ich aber anders formuliert &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Raucher rauchen (es stinkt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          be 🐝 the 🎉 toaster 🥯 in ⬇️ my 👆 bathtub 🧼 tonight ❤️ &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
@@ -21,15 +22,18 @@
           kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           DaBaby says:"Let's Go!" &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Like and subscribe to bomb the fuck out of France &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          among us 3d &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          UEE😭🥺💧Eu💧💧E E😭😭 E EUE🥺🥺😭UUUUE😭🥺💧🥺😭 ue &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
         </p>
         <p>
           Meine Meinung ist Fakt !&nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Der code funktioniert nicht &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           <i>"Cornelius Caesar"</i>-Zitat Adrian &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Ich(die webseite) begehe suizid &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
-          Press <a href="#"><b>F</b></a> to pray to Putin &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          Press <a href="#"><b>F</b></a> to pray to Zelenskyy &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Das hätte ich aber anders formuliert &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Raucher rauchen (es stinkt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          be 🐝 the 🎉 toaster 🥯 in ⬇️ my 👆 bathtub 🧼 tonight ❤️ &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Boh! &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           [Insert Bee Movie transcript here] &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           <a href="https://www.bebis-schleswig-holstein.de/"><b>bebis-schleswig-holstein.de</b></a> &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
@@ -38,6 +42,8 @@
           kommunistische Regierungen können nicht funkionieren (dies ist ein fakt) &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           DaBaby says:"Let's Go!" &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
           Like and subscribe to bomb the fuck out of France &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          among us 3d &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
+          UEE😭🥺💧Eu💧💧E E😭😭 E EUE🥺🥺😭UUUUE😭🥺💧🥺😭 ue &nbsp; &nbsp;&mdash;&nbsp; &nbsp;
         </p>
       </div>
     </div>

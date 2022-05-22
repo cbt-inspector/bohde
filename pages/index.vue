@@ -9,11 +9,9 @@
           <div class="lcolumn">
             <div class="leftcolumn">
               <p>
-                one big massive shitpost
-                <br>&nbsp;<br>
-                would you like some <i>bing chilling</i><br>
-                <img src="~/static/kickl.jpg" alt="kickl" style="margin-left:20%;width:620px;height:2000px;"><br>
-                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (this is senpai <i><b>HERBERT KICKL</b></i>)
+                ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ sus!
+                <img src="~/static/d.gif" alt="kickl" style="margin-left:auto;width:620px;height:620px;"><br>
+                Now let's say hypothetically I was the impostor. How would I get from reactor to medbay in that timespan, from which we saw each other, till you found yellow dead? Also if I were the impostor hypothetically speaking, how would I have finished all my tasks?
 
 
 

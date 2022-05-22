@@ -8,6 +8,13 @@
         <br>
         <div class="calc">
         <script>
+        var inpuut = document.getElementById("inpt");
+        inpuut.addEventListener("keydown", function (e) {
+          if (e.key === "Enter") {
+            kicklfunc();
+          }
+        });
+
         function kicklfunc(kik) {
           var mult = document.getElementById("inpt").value;
           var kik = mult /1.723300970873786407766990291262;
