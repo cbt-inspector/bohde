@@ -78,6 +78,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 50px;
   color: white;
+  margin-top: 0;
 }
 
 .temp p {
@@ -98,7 +99,7 @@ body {
   padding: 0;
   color: white;
   overflow: hidden;
-  height: 270px;
+  height: 190px;
 }
 
 .wrapper {
