@@ -10,9 +10,6 @@
           <br>
           <p>haha funny gif (it says d)</p>
         </div>
-        <div class="flexflex" id="among-shapiro">
-          <p>Now let's say hypothetically I was the impostor. ((ඞ))<br>How would I get from reactor ඞ to medbay in that timespan, from which we saw each other, till you ඞඞ found yellow dead? (((ඞඞඞsus!))) Also if I were the impostor ((ඞ)) hypothetically speaking, how would I have finished all my tasks?? ඞඞඞඞඞ?ඞඞඞ???</p>
-        </div>
         <div class="flexflex">
           <p>
             <span style="font-weight: bold;font-size: 28px;">boh</span> &nbsp;
@@ -21,6 +18,14 @@
             <br>
             <i>interjection</i> <br>
             boah but without the a
+          </p>
+        </div>
+        <div class="flexflex" id="among-shapiro">
+          <p>Now let's say hypothetically I was the impostor. ((ඞ))<br>How would I get from reactor ඞ to medbay in that timespan, from which we saw each other, till you ඞඞ found yellow dead? (((ඞඞඞsus!))) Also if I were the impostor ((ඞ)) hypothetically speaking, how would I have finished all my tasks?? ඞඞඞඞඞ?ඞඞඞ???</p>
+        </div>
+        <div class="flexflex">
+          <p>im still not really sure what to put on the site, send suggestions to
+            <a href="mailto:info@theboh.de" style="color:darkblue">info@theboh.de</a>
           </p>
         </div>
       </div>
@@ -72,8 +77,9 @@
 }
 
 #among-shapiro {
-  width: 30vw;
+  width: 60vw;
   height: auto;
+  flex-shrink: none;
 }
 #among-shapiro p {
   font-size: 2em;
